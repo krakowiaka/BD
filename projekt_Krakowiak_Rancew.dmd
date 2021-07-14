@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="projekt_Krakowiak_Rancew" id="09FBF00B-6B93-A0A3-2F60-B523224C9A7B" version="3.5">
+<createdBy>Aleksandra</createdBy>
+<createdTime>2021-05-31 18:28:48 UTC</createdTime>
+<ownerDesignName>projekt_Krakowiak_Rancew</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>09FBF00B-6B93-A0A3-2F60-B523224C9A7B</designId>
+</OSDM_Design>
